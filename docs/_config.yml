@@ -30,7 +30,7 @@ twitter_username: hugoalcalde4
 github_username:  hugoalcalde
 
 # Build settings
-remote_theme: minimalist
+remote_theme: minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
